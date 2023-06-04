@@ -5,8 +5,8 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author: Chackylee
- * @description: 好友分组添加成员通知包
+ * @author hitzaki
+ * @description 好友分组添加成员通知包
  **/
 @Data
 public class AddFriendGroupMemberPack {

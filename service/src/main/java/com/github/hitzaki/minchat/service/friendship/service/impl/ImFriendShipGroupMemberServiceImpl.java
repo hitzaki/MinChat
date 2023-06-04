@@ -17,6 +17,7 @@ import com.github.hitzaki.minchat.service.user.dao.ImUserDataEntity;
 import com.github.hitzaki.minchat.service.user.service.ImUserService;
 import com.github.hitzaki.minchat.service.utils.MessageProducer;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -24,7 +25,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author: Chackylee
+ * @author hitzaki
  * @description
  **/
 @Service
@@ -60,7 +61,7 @@ public class ImFriendShipGroupMemberServiceImpl
         for (String toId : req.getToIds()) {
             ResponseVO<ImUserDataEntity> singleUserInfo = imUserService.getSingleUserInfo(toId, req.getAppId());
             if(singleUserInfo.isOk()){
-                int i = thisService.doAddGroupMember(group.getData().getGroupId(), toId);
+                int i = this.doAddGroupMember(group.getData().getGroupId(), toId);
                 if(i == 1){
                     successId.add(toId);
                 }

@@ -1,7 +1,7 @@
 package com.github.hitzaki.minchat.common;
 
 /**
- * @author Chackylee
+ * @author hitzaki
  * @description
  **/
 public enum ClientType {

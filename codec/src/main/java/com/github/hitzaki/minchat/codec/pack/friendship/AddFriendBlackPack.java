@@ -3,8 +3,8 @@ package com.github.hitzaki.minchat.codec.pack.friendship;
 import lombok.Data;
 
 /**
- * @author: Chackylee
- * @description: 用户添加黑名单以后tcp通知数据包
+ * @author hitzaki
+ * @description 用户添加黑名单以后tcp通知数据包
  **/
 @Data
 public class AddFriendBlackPack {

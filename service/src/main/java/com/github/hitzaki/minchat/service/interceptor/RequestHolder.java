@@ -1,7 +1,7 @@
 package com.github.hitzaki.minchat.service.interceptor;
 
 /**
- * @author Chackylee
+ * @author hitzaki
  * @description
  **/
 public class RequestHolder {

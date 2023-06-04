@@ -14,8 +14,8 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 /**
- * @author: Chackylee
- * @description:
+ * @author hitzaki
+ * @description
  **/
 public class WebSocketMessageEncoder extends MessageToMessageEncoder<MessagePack> {
 

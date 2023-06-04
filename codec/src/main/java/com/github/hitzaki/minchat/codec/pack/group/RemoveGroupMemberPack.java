@@ -3,8 +3,8 @@ package com.github.hitzaki.minchat.codec.pack.group;
 import lombok.Data;
 
 /**
- * @author: Chackylee
- * @description: 踢人出群通知报文
+ * @author hitzaki
+ * @description 踢人出群通知报文
  **/
 @Data
 public class RemoveGroupMemberPack {

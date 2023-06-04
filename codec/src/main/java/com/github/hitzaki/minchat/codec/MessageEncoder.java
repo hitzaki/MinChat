@@ -7,8 +7,8 @@ import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.MessageToByteEncoder;
 
 /**
- * @author: Chackylee
- * @description: 消息编码类，私有协议规则，前4位表示长度，接着command4位，后面是数据
+ * @author hitzaki
+ * @description 消息编码类，私有协议规则，前4位表示长度，接着command4位，后面是数据
  **/
 public class MessageEncoder extends MessageToByteEncoder {
 

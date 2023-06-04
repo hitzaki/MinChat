@@ -4,8 +4,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @author: Chackylee
- * @description: 撤回消息通知报文
+ * @author hitzaki
+ * @description 撤回消息通知报文
  **/
 @Data
 @NoArgsConstructor

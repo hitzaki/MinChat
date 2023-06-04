@@ -3,8 +3,8 @@ package com.github.hitzaki.minchat.codec.pack.friendship;
 import lombok.Data;
 
 /**
- * @author: Chackylee
- * @description: 删除黑名单通知报文
+ * @author hitzaki
+ * @description 删除黑名单通知报文
  **/
 @Data
 public class DeleteBlackPack {

@@ -6,8 +6,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @author: Chackylee
- * @description:
+ * @author hitzaki
+ * @description
  **/
 @Data
 public class BootstrapConfig {

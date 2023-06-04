@@ -12,9 +12,9 @@ import io.netty.handler.codec.ByteToMessageDecoder;
 import java.util.List;
 
 /**
- * @description: 消息解码类
- * @author: lld
- * @version: 1.0
+ * @description 消息解码类
+ * @author hitzaki
+ * @version 1.0
  */
 public class MessageDecoder extends ByteToMessageDecoder {
 

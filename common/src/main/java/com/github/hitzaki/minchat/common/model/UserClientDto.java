@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * @description
  * @author lld
- * @version: 1.0
+ * @version 1.0
  */
 @Data
 public class UserClientDto {

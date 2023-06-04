@@ -8,7 +8,7 @@ import java.nio.charset.Charset;
 /**
  * @description
  * @author lld
- * @version: 1.0
+ * @version 1.0
  */
 public class Base64URL {
     public static byte[] base64EncodeUrl(byte[] input) {

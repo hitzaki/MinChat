@@ -5,7 +5,7 @@ import com.github.hitzaki.minchat.service.friendship.model.req.AddFriendShipGrou
 import com.github.hitzaki.minchat.service.friendship.model.req.DeleteFriendShipGroupMemberReq;
 
 /**
- * @author Chackylee
+ * @author hitzaki
  * @description
  **/
 public interface ImFriendShipGroupMemberService {

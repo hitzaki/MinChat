@@ -3,7 +3,7 @@ package com.github.hitzaki.minchat.common.enums;
 import com.github.hitzaki.minchat.common.exception.ApplicationExceptionEnum;
 
 /**
- * @author Chackylee
+ * @author hitzaki
  * @description 6
  **/
 public enum GateWayErrorCode implements ApplicationExceptionEnum {

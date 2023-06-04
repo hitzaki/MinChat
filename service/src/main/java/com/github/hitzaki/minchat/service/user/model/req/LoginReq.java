@@ -6,7 +6,7 @@ import javax.validation.constraints.NotNull;
 
 
 /**
- * @author Chackylee
+ * @author hitzaki
  * @description
  **/
 @Data

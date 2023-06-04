@@ -3,8 +3,8 @@ package com.github.hitzaki.minchat.codec.pack.friendship;
 import lombok.Data;
 
 /**
- * @author: Chackylee
- * @description: 用户创建好友分组通知包
+ * @author hitzaki
+ * @description 用户创建好友分组通知包
  **/
 @Data
 public class AddFriendGroupPack {

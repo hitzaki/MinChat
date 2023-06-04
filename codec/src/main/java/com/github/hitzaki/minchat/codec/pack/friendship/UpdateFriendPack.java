@@ -4,8 +4,8 @@ import lombok.Data;
 
 
 /**
- * @author: Chackylee
- * @description: 修改好友通知报文
+ * @author hitzaki
+ * @description 修改好友通知报文
  **/
 @Data
 public class UpdateFriendPack {

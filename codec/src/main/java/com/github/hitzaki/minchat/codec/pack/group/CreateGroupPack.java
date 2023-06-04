@@ -3,8 +3,8 @@ package com.github.hitzaki.minchat.codec.pack.group;
 import lombok.Data;
 
 /**
- * @author: Chackylee
- * @description: 创建群组通知报文
+ * @author hitzaki
+ * @description 创建群组通知报文
  **/
 @Data
 public class CreateGroupPack {

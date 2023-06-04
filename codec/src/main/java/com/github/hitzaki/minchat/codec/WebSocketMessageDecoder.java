@@ -10,9 +10,9 @@ import io.netty.handler.codec.http.websocketx.BinaryWebSocketFrame;
 import java.util.List;
 
 /**
- * @description:
- * @author: lld
- * @version: 1.0
+ * @description
+ * @author hitzaki
+ * @version 1.0
  */
 public class WebSocketMessageDecoder extends MessageToMessageDecoder<BinaryWebSocketFrame> {
     @Override

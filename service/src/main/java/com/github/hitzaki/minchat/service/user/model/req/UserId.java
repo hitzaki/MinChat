@@ -4,7 +4,7 @@ import com.github.hitzaki.minchat.common.model.RequestBase;
 import lombok.Data;
 
 /**
- * @author Chackylee
+ * @author hitzaki
  * @description
  **/
 @Data

@@ -9,7 +9,7 @@ import java.util.TreeMap;
 /**
  * @description
  * @author lld
- * @version: 1.0
+ * @version 1.0
  */
 public class TreeMapConsistentHash extends AbstractConsistentHash {
 

@@ -2,7 +2,7 @@ package com.github.hitzaki.minchat.service.utils;
 
 
 /**
- * @author Chackylee
+ * @author hitzaki
  **/
 public class ConversationIdGenerate {
 

@@ -2,14 +2,13 @@ package com.github.hitzaki.minchat.codec.pack.user;
 
 import com.github.hitzaki.minchat.common.model.UserSession;
 import lombok.Data;
-import sun.dc.pr.PRError;
 
 import java.util.List;
 
 /**
- * @description:
- * @author: lld
- * @version: 1.0
+ * @description
+ * @author hitzaki
+ * @version 1.0
  */
 @Data
 public class UserStatusChangeNotifyPack {

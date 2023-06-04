@@ -5,7 +5,7 @@ import com.github.hitzaki.minchat.common.model.message.MessageContent;
 import lombok.Data;
 
 /**
- * @author Chackylee
+ * @author hitzaki
  * @description
  **/
 @Data

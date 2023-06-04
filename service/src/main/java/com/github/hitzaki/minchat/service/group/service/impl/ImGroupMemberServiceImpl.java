@@ -197,10 +197,9 @@ public class ImGroupMemberServiceImpl implements ImGroupMemberService {
     }
 
     /**
-     * @param [groupId, memberId, appId]
      * @return com.github.hitzaki.minchat.common.ResponseVO<com.github.hitzaki.minchat.service.group.model.resp.GetRoleInGroupResp>
      * @description 查询用户在群内的角色
-     * @author chackylee
+     * @author hitzaki
      */
     @Override
     public ResponseVO<GetRoleInGroupResp> getRoleInGroupOne(String groupId, String memberId, Integer appId) {

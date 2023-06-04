@@ -1,7 +1,7 @@
 package com.github.hitzaki.minchat.common.exception;
 
 /**
- * @author Chackylee
+ * @author hitzaki
  * @description
  **/
 public class ApplicationException extends RuntimeException {

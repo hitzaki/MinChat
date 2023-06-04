@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * @description
  * @author lld
- * @version: 1.0
+ * @version 1.0
  */
 public interface RouteHandle {
 

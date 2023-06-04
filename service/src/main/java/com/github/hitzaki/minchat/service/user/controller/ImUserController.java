@@ -53,10 +53,10 @@ public class ImUserController {
     }
 
     /**
-     * @param [req]
+     * @param req
      * @return com.github.hitzaki.minchat.common.ResponseVO
      * @description im的登录接口，返回im地址
-     * @author chackylee
+     * @author hitzaki
      */
     @RequestMapping("/login")
     public ResponseVO login(@RequestBody @Validated LoginReq req, Integer appId) {

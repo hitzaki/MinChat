@@ -3,7 +3,7 @@ package com.github.hitzaki.minchat.service.group.model.resp;
 import lombok.Data;
 
 /**
- * @author Chackylee
+ * @author hitzaki
  * @description
  **/
 @Data

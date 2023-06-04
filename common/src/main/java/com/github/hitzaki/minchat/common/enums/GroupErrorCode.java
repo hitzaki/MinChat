@@ -3,7 +3,7 @@ package com.github.hitzaki.minchat.common.enums;
 import com.github.hitzaki.minchat.common.exception.ApplicationExceptionEnum;
 
 /**
- * @author Chackylee
+ * @author hitzaki
  * @description
  **/
 public enum GroupErrorCode implements ApplicationExceptionEnum {

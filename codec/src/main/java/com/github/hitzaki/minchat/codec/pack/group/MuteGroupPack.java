@@ -3,8 +3,8 @@ package com.github.hitzaki.minchat.codec.pack.group;
 import lombok.Data;
 
 /**
- * @author: Chackylee
- * @description: 禁言群tcp通知
+ * @author hitzaki
+ * @description 禁言群tcp通知
  **/
 @Data
 public class MuteGroupPack {

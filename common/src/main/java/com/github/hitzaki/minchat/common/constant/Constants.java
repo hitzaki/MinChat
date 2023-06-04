@@ -3,7 +3,7 @@ package com.github.hitzaki.minchat.common.constant;
 /**
  * @description
  * @author lld
- * @version: 1.0
+ * @version 1.0
  */
 public class Constants {
 

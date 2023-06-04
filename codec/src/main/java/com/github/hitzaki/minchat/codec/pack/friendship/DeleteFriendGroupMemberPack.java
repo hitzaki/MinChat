@@ -5,8 +5,8 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author: Chackylee
- * @description: 删除好友分组成员通知报文
+ * @author hitzaki
+ * @description 删除好友分组成员通知报文
  **/
 @Data
 public class DeleteFriendGroupMemberPack {
